@@ -1,0 +1,1 @@
+#playwright codegen https://demoqa.com/checkbox
